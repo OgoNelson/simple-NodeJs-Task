@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1749903622883",
+    "name": "Man city jersey",
+    "price": "$50",
+    "size": "m"
+  },
+  {
+    "id": "1749903900537",
+    "name": "Asernal jersey",
+    "price": "$50",
+    "size": "m"
+  },
+  {
+    "id": "1749906108468",
+    "name": "Liverpool jersey",
+    "price": "$70",
+    "size": "l"
+  }
+]
